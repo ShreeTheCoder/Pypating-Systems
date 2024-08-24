@@ -1,0 +1,3 @@
+exit: Turn off the VM | Note: you have to type this command 2 times idk why
+
+scd: Show the current working directory. | Full form is "show current directory" | Note: this command is not added yet
